@@ -4,3 +4,4 @@
 - React
 - Sass
 - React Router
+- Firebase
