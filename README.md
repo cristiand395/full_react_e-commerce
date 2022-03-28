@@ -5,3 +5,6 @@
 - Sass
 - React Router
 - Firebase
+- Redux
+- Redux-Logger
+- React_redux
